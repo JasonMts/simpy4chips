@@ -1,0 +1,1 @@
+simTicksPerCycle=2
